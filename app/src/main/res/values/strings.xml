@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Expense Report</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_all">View All</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="transactions">Transactions</string>
+    <string name="app_slogan">It\'s your money. Own it</string>
+    <string name="all_tags">All Tags</string>
+    <string name="view_tags">View Tags</string>
+
+</resources>
